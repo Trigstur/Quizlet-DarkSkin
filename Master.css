@@ -34,6 +34,9 @@ You can Contact me on discord if you have any issues or questions : Trigstur#591
 
 
 /* Code Starts Here */
+.ModeControls-blurTop,.ModeControls-blurBottom {
+	background: transparent;
+}
    .UIKeyboardHint-text, .FlippableFlashcard-front, .FlippableFlashcard-back, .AssistantRevealSelfAssessmentQuestionView-actionArea, .UIKeyboardHint {
     background: #232729;
 }
