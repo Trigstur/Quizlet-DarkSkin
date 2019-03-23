@@ -25,7 +25,7 @@ Thanks for using Quizlet DarkSkin. The most used Quizlet reskin.
 **Validation report:**
 
 <p>
-<a href="http://jigsaw.w3.org/css-validator/check/referer">
+<a href="https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Ftrigstur.nl%2Fcss%2Fquizletdarkskin.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css">
     <img style="border:0;width:88px;height:31px"
         src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
         alt="Valide CSS!" />
