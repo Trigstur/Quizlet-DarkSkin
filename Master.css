@@ -34,6 +34,22 @@ You can Contact me on discord if you have any issues or questions : Trigstur#591
 	
 /* Code Starts Here */
 
+.SetPage .SetPage-setDetailsTermsWrapper, .SetPage .SetPage-setLinksWrapper {
+    background-color: #25292b;
+}
+.SetPage .SetPage-setDetailsInfoWrapper, .SetPage .SetPage-setIntroWrapper {
+    background-color: #363d40;
+}
+.SetPage .SetPage-studyModes .SetPageModeButton-modeName {
+    color: #fff;
+}
+.SetPage .SetPage-studyModes .SetPageModeButton.is-highlighted .SetPageModeButton-modeName {
+    color: #ffcd1f;
+}
+.SetPageInformation-headerContainer {
+    background: #272b2d;
+}	
+	
 .AssistantViewController {
 	background: #ffffff
 }
