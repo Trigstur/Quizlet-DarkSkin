@@ -34,6 +34,34 @@ You can Contact me on discord if you have any issues or questions : Trigstur#591
 	
 /* Code Starts Here */
 
+	
+
+.SearchPage--redesign .page {
+    background-color: #1a1c1c;
+}
+.FolderPageSrsBanner-card {
+    background-color: #1f2121;
+}
+.FolderPageSrsBanner {
+    background: linear-gradient(0deg,#1a1c1c,#1f2121 50%,#1f2121 0,#1a1c1c);
+}
+[style='background-image: url("https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=116,onerror=redirect,w=116/https://up.quizlet.com/12wks9-ETXN3-768.jpg"); height: 116px; width: 116px;']:after {
+    content: "🔧 DarkSkin Dev ";
+    background: #F9D77E;
+    color: #1a1c1c;
+    font-size: 12px;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    display: block;
+    margin: 44% 0px 0px 0px;
+    z-index: 999;
+    font-weight: 900;
+}
+[style='background-image: url("https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=116,onerror=redirect,w=116/https://up.quizlet.com/12wks9-ETXN3-768.jpg"); height: 116px; width: 116px;'] {
+    box-shadow: 0 0 15px 7px #F9D77E;
+    border: solid #ffd974d1 3px;
+}
 .SetPage .SetPage-setDetailsTermsWrapper, .SetPage .SetPage-setLinksWrapper {
     background-color: #25292b;
 }
